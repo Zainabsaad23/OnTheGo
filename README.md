@@ -1,7 +1,7 @@
 # OnTheGo
 # Challenge 6 - VISION 2030 CHALLENGE 
 
-###  **This repository will contain a swift Dosee app**
+###  **This repository will contain a swift OnTheGo app**
 
 <hr>
 
@@ -27,6 +27,9 @@
 
 ### Challenge Statment 
 limiting time spent in the restaurants by the help of accelerating technology.
+Helping reduce the time spent waiting at restaurants by enabling customers to pre-order their meals and reserve tables ahead of time. This means that when they arrive at the restaurant, their table is ready, and their food is prepared, so they can be served quickly. 
+which eliminate the need for customers to interact with staff altogether, resulting in an even faster dining experience. 
+facing a challenge in waiting times for customers, including waiting in line, placing orders, receiving the bill, and waiting for their food to be prepared.
 <hr>
 
 
@@ -39,12 +42,15 @@ limiting time spent in the restaurants by the help of accelerating technology.
 <hr>
 
 ### App statment
-( OnTheGo ) an application that manages and enhances the customer satisfaction by limiting wasted time spent in the restaurant.
+With OnTheGo, users can easily check out different restaurants, book a table and time, and even pre-order their meals, all to avoid wasting time waiting around and make their restaurant experience much more enjoyable.
 
 <hr>
 
 ### Solution Concept 
 take an arder and pay for prepare the order in DINEIN restaurants when you come the order is ready in the table .
+
+The solution reduces wait times at restaurants by enabling customers to pre-order their meals and reserve tables ahead of time. 
+This eliminates the need for customers to interact with staff, resulting in a faster dining experience.
 
 <hr>
 
