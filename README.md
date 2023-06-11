@@ -1,5 +1,6 @@
 # OnTheGo
-# Challenge 6 - Macro challeng
+# Challenge 6 - VISION 2030 CHALLENGE 
+
 ###  **This repository will contain a swift Dosee app**
 
 <hr>
