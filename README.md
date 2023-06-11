@@ -9,6 +9,7 @@
 
 * Big Idea 
 * Challenge Statment
+* Featchers 
 * App statment
 * Solution Concept 
 * Technologies:
@@ -19,22 +20,25 @@
 <hr>
 
 ### Big Idea 
- There are 3 main factors for regulating blood sugar in diabetics 
-(healthy food, needles on time, and exercise).Among the most important are the needles on time;
-The problem lies in forgetting insulin, and because diabetes is particularly related to the eye and the retina, 
-we chose the blind and visually impaired among them. 
-Let's make life easier for them and make an alarm for them with a sound to remind them 
-of the insulin time and their sugar will be perfect.
+ limiting time spent in the restaurants by the help of accelerating technology
 
 <hr>
 
 ### Challenge Statment 
-Help the community saving time by focusing on what important.
+limiting time spent in the restaurants by the help of accelerating technology.
+<hr>
+
+
+### Features:
+
+* Pre-ordering and booking the table
+
+* Splitting the bill
 
 <hr>
 
 ### App statment
-( OnTheGo ) an application to manage the process of restaurant chains and the process of enhancing the costumer services
+( OnTheGo ) an application that manages and enhances the customer satisfaction by limiting wasted time spent in the restaurant.
 
 <hr>
 
