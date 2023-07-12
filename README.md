@@ -84,7 +84,7 @@ This eliminates the need for customers to interact with staff, resulting in a fa
 <hr>
 
 ### Demo 
-[https://youtu.be/T-D1KVIuvjA]([https://s tream.new/v/VFZuexTjbemwFWxf8eQXcyUd73GhI9bRcLm371EqMTA](https://stream.new/v/b6IDoQt2h00AhHnmJx3Q2jcscCAxD7U00V6LvW501GHTvs))
+
 
 ## Challenge Summary 
 ### app easy to use and save time for waiting , 
